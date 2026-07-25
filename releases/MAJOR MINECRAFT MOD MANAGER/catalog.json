@@ -1,0 +1,31 @@
+[
+  {
+    "id": "major-bsl-vanilla-ultra",
+    "name": "Major BSL Vanilla Ultra",
+    "subtitle": "Shaders ultra-realistas com identidade vanilla",
+    "description": "Mantém blocos, itens, ícones e interface fiéis ao Minecraft. Instala Fabric, Iris, Sodium e otimizações verificadas, aplica o perfil VANILLA_ULTRA e cria backup automático antes de qualquer alteração.",
+    "version": "1.0.0",
+    "minecraftVersion": "26.2",
+    "loader": "fabric",
+    "loaderVersion": "0.19.3",
+    "fabricInstallerVersion": "1.1.1",
+    "shaderFileName": "BSL_v10.1.3-MajorVanillaUltra-PRIVATE.zip",
+    "shaderRelativePath": "Assets/Packs/MajorBSLVanillaUltra/shaderpack/BSL_v10.1.3-MajorVanillaUltra-PRIVATE.zip",
+    "shaderSha256": "9e0089a55c48d79b85d321f7cc3e9d1819d2c483f2caec6b3e34c8d232f8c843",
+    "componentsRelativePath": "Assets/Packs/MajorBSLVanillaUltra/components.json",
+    "licenseRelativePath": "Assets/Packs/MajorBSLVanillaUltra/licenses/BSL-NOTICE.md",
+    "remotePackageUrl": "",
+    "remotePackageSha256": "",
+    "recommendedProfile": "VANILLA_ULTRA",
+    "installFabric": true,
+    "configureIris": true,
+    "tags": [
+      "Minecraft 26.2",
+      "Fabric",
+      "Iris",
+      "Sodium",
+      "Vanilla",
+      "RTX"
+    ]
+  }
+]
